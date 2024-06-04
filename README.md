@@ -19,11 +19,11 @@ This repository contains an SMS Spam Classifier developed using machine learning
 ## Screenshots
 Here are some screenshots of the SMS Spam Classifier:
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Screenshot of the Streamlit app main interface*
+![Screenshot 1](Screenshots/screenshot1.png)
 
-![Screenshot 2](screenshots/screenshot2.png)
-*Screenshot showing classification results*
+
+![Screenshot 2](Screenshots/screenshot2.png)
+
 
 ## How to Run the Project
 1. **Clone the Repository**:
